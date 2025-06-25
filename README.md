@@ -14,7 +14,7 @@
   [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?&logo=RubyGems&logoColor=ghostwhite&label=gem&color=orange)][gem]&nbsp;
   [![Open in Dev Containers](https://img.shields.io/badge/Dev_Containers-Open-deepskyblue?logo=linuxcontainers)][open-container]
 
-  [**Live Demo** →][demo]
+  [**演示页面** →][demo]
 
   [![Devices Mockup](https://chirpy-img.netlify.app/commons/devices-mockup.png)][demo]
 
@@ -49,7 +49,7 @@
 
 ## 贡献
 
-贡献 (_pull requests_, _issues_, and _discussions_) 使开源社区成为一个如此美好的学习、启发和创造场所。我们非常感谢您做出的任何贡献。
+贡献 (_pull requests_, _issues_, 以及_discussions_) 使开源社区成为一个如此美好的学习、启发和创造场所。我们非常感谢您做出的任何贡献。
 详情请参阅“[贡献指南][contribute-guide]”。
 
 ## 制作人员
@@ -59,7 +59,7 @@
 感谢[所有参与项目开发的贡献者][contributors]！
 
 [![all-contributors](https://contrib.rocks/image?repo=cotes2020/jekyll-theme-chirpy&columns=16)][contributors]
-<sub> — 由[contrib.rocks](https://contrib.rocks)制作</sub>
+<sub> — 该图由[contrib.rocks](https://contrib.rocks)制作</sub>
 
 ### 第三方资产
 
