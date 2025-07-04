@@ -16,7 +16,7 @@ image:
 
 ## Headings
 
-<!-- markdownlint-capture  -->
+<!-- markdownlint-capture -->
 <!-- markdownlint-disable -->
 # H1 — heading
 {: .mt-4 .mb-0 }
