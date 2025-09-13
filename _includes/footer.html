@@ -42,7 +42,12 @@
         target="_blank"
         rel="noopener"
       >Chirpy</a>
+	{% if site.icp %}
+ | <a target="_blank" href="http://beian.miit.gov.cn/">{{ site.icp }}</a>
     {%- endcapture -%}
+    {% else %}
+    {%- endcapture -%}
+    {% endif %}
 
     {{ site.data.locales[include.lang].meta | replace: ':PLATFORM', _platform | replace: ':THEME', _theme }}
   </p>

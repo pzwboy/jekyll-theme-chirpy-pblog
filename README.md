@@ -2,11 +2,13 @@
 <div align="center">
 
   <!-- markdownlint-disable-next-line -->
-  # Chirpy Jekyll Theme
+  # Chirpy Jekyll Theme（Pzwboy's Blog 用修改版）
 
   一款适用于技术写作的简约、响应迅速且功能丰富的Jekyll主题。
   
   本项目基于Chirpy Jekyll Theme v7.1.1
+  
+  [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 
   [![CI](https://img.shields.io/github/actions/workflow/status/cotes2020/jekyll-theme-chirpy/ci.yml?logo=github)][ci]&nbsp;
   [![Codacy Badge](https://img.shields.io/codacy/grade/4e556876a3c54d5e8f2d2857c4f43894?logo=codacy)][codacy]&nbsp;
@@ -19,8 +21,6 @@
   [![Devices Mockup](https://chirpy-img.netlify.app/commons/devices-mockup.png)][demo]
 
 </div>
-
-原项目仓库: [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 
 ## 特点
 
@@ -42,10 +42,13 @@
 - 渐进式 Web 应用
 - 网站分析
 - SEO和性能优化
+- [新增] 网站底部可添加备案号
 
-## 文档
+## 关于字体
 
-要了解如何使用、开发和升级该项目，请参阅[本项目维基][wiki].
+为了更好的多语言阅读体验，该主题已修改[MiSans](https://hyperos.mi.com/font)为除拉丁字母外的默认字体。
+
+若想还原至原主题所用字体，请删除`assets\lib\bootstrap\bootstrap.min.css`和`assets\lib\fonts\main.css`，并将同目录下`bootstrap.min_o.css`和`main_o.css`文件名中的`_o`删去即可。
 
 ## 贡献
 
