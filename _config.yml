@@ -108,7 +108,7 @@ social_preview_image: # string, local or CORS resources
 toc: true
 
 # China ICP Registration Record
-icp: 萌ICP备20251607号 # 此处输入备案号（这里的“萌ICP备”仅为虚构示例）
+icp: 萌ICP备00000000号 # 此处输入备案号（这里的“萌ICP备”仅为虚构示例）
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
