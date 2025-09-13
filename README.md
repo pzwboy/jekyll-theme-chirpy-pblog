@@ -48,7 +48,7 @@
 
 为了更好的多语言阅读体验，该主题已修改[MiSans](https://hyperos.mi.com/font)为除拉丁字母外的默认字体。
 
-若想还原至原主题所用字体，请删除`assets\lib\bootstrap\bootstrap.min.css`和`assets\lib\fonts\main.css`，并将同目录下`bootstrap.min_o.css`和`main_o.css`文件名中的`_o`删去即可。
+若想还原至原主题所用字体，请删除`assets\lib\bootstrap\bootstrap.min.css`, `assets\lib\fonts\main.css`和`E:\GitHub\blog\_sass\addon\variables.scss`，并将同目录下`bootstrap.min_o.css`, `variables_o.scss`和`main_o.css`文件名中的`_o`删去即可。
 
 ## 贡献
 
