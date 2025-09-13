@@ -55,13 +55,17 @@
 
     {% for entry in site.data.contact %}
       {% case entry.type %}
-        {% when 'github', 'twitter' %}
+        {% when 'github', 'twitter', 'facebook' %}
           {%- capture url -%}
             https://{{ entry.type }}.com/{{ site[entry.type].username }}
           {%- endcapture -%}
         {% when 'bilibili' %}
           {%- capture url -%}
             https://space.bilibili.com/{{ site[entry.type].uid }}
+          {%- endcapture -%}
+        {% when 'weibo' %}
+          {%- capture url -%}
+            https://weibo.com/u/{{ site[entry.type].uid }}
           {%- endcapture -%}
         {% when 'email' %}
           {% assign email = site.social.email | split: '@' %}

@@ -31,8 +31,14 @@ github:
 twitter:
   username: twitter_username # change to your Twitter username
 
+facebook:
+  username: facebook_username # change to your Facebook username
+
 bilibili:
   uid: 11783021 # change to your BiliBili UID
+
+weibo:
+  uid: 0000000000 # change to your BiliBili UID
 
 social:
   # Change to your full name.

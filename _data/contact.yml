@@ -6,8 +6,14 @@
 - type: bilibili
   icon: "fa-brands fa-bilibili"
 
+- type: facebook
+  icon: "fa-brands fa-facebook"
+
 - type: twitter
   icon: "fa-brands fa-x-twitter"
+
+- type: weibo
+  icon: "fa-brands fa-weibo"
 
 - type: email
   icon: "fas fa-envelope"
