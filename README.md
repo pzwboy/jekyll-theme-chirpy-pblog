@@ -4,7 +4,9 @@
   <!-- markdownlint-disable-next-line -->
   # Chirpy Jekyll Theme
 
-（Pzwboy's Blog用修改版）
+  Pzwboy's Blog 用修改版
+
+  ~~（更适合国内用户的Chirpy主题）~~
 
   一款适用于技术写作的简约、响应迅速且功能丰富的Jekyll主题。
   
@@ -44,7 +46,8 @@
 - 渐进式 Web 应用
 - 网站分析
 - SEO和性能优化
-- [新增] 网站底部可添加备案号（留空不显示）
+- [新增] 网站底部可添加备案号
+- [新增] 可选Waline为评论系统
 
 ## 关于字体
 
